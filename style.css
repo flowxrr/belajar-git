@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 2rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 1.5rem;
+}
+
+#VisiMisi {
+  padding-top: 2rem;
+  background-color: #e2edff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Group {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Media {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  background-color: #e2edff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
